@@ -2,16 +2,16 @@
 This readme will let you know how to connect to OT-vpn from your machine at home
 
 ## Prerequisites
-- install safenet mobilepass application(preferrably on your mobile)
-- install cisco anyconnect
-- install remote desktop software
+- Install safenet mobilepass application(preferrably on your mobile)
+- Install cisco anyconnect
+- Install remote desktop software
 
 ## Download all the Prerequisites
 ### SafeNet MobilePass [Link](https://play.google.com/store/apps/details?id=securecomputing.devices.android.controller).
 ### Cisco AnyConnect 
 Follow these steps to download cisco anyconnect on your machine
-- head to this [Link](https://vpn-wl.opentext.com)
-- set Group to OTX-Employee-2-Factor
+- Head to this [Link](https://vpn-wl.opentext.com)
+- Set Group to OTX-Employee-2-Factor
 - USERNAME <your mobile pass token name> (this would be equivalent to your OT Username)
 - PASSWORD <your passcode>
 - Login
