@@ -28,7 +28,6 @@ By now, If all these steps are successfully completed your machine would be a pa
 - Install reminna 
 
 `sudo apt-get update`
-
 `sudo apt-get install remmina`
 
 ## Connect to your machine
