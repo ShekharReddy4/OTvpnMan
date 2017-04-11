@@ -1,4 +1,4 @@
-# OTvpMan
+# OTvpnMan
 This readme will let you know how to connect to OT-vpn from your machine at home
 
 ## Prerequisites
@@ -28,7 +28,6 @@ By now, If all these steps are successfully completed your machine would be a pa
 - Install reminna 
 
 `sudo apt-get update
-
  sudo apt-get install remmina`
 
 ## Connect to your machine
