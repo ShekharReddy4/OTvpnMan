@@ -11,9 +11,9 @@ This readme will let you know how to connect to OT-vpn from your machine at home
 ### Cisco AnyConnect 
 Follow these steps to download cisco anyconnect on your machine
 - Head to this [Link](https://vpn-wl.opentext.com)
-- Set Group to OTX-Employee-2-Factor
-- USERNAME < your mobile pass token name> (this would be equivalent to your OT Username)
-- PASSWORD < your passcode>
+- Set Group `OTX-Employee-2-Factor`
+- USERNAME `< your mobile pass token name>` (this would be equivalent to your OT Username)
+- PASSWORD `< your passcode>`
 - Login
 download and install cisco anyconnect on your machine.
 - open ciscoanyconnect.
