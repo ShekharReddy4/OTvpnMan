@@ -27,8 +27,10 @@ By now, If all these steps are successfully completed your machine would be a pa
 #### Linux
 - Install reminna 
 
-```sudo apt-get update
-  sudo apt-get install remmina````
+```
+sudo apt-get update
+sudo apt-get install remmina
+```
 
 ## Connect to your machine
 - open your remote desktop connection software and enter your credentials 
