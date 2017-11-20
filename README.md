@@ -42,5 +42,3 @@ sudo apt-get install remmina
 
 
 Test2
-asd
-asdasd
