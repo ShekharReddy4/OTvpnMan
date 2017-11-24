@@ -36,20 +36,3 @@ sudo apt-get install remmina
 - open your remote desktop connection software and enter your credentials 
 
 # HAPPY CODING...
-
-## Pull Requests please...
-
-
-asdnad
-Test2
-ZXZX
-ioafs
-asdasdasdasdasdasd
-azsaodijkasldf
-apsijdasd
-this is for slavebuild2
-asdasdasd
-asdasd
-
-thisis fo te
- this is another
