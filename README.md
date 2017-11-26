@@ -36,5 +36,3 @@ sudo apt-get install remmina
 - open your remote desktop connection software and enter your credentials 
 
 # HAPPY CODING...
-
-This is the thing
